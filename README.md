@@ -1,2 +1,2 @@
 # UniIS_ObjectBasedDB
-This is an object-based database for a University's Information System.
+This project creates an object-based database for a University's Information System.
